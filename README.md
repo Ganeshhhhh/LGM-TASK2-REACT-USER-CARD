@@ -1,6 +1,5 @@
 # React Cards Example
 
-![](./screenshot.png)
 
 ## Available Scripts
 
